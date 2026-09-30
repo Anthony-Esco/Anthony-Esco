@@ -63,7 +63,7 @@ Mentor community college students navigating the transfer process to four-year u
 - Develop application trackers, resource guides, and academic resources
 - Lead virtual office hours and workshops
 
-## Featured Project
+## Current Project
 
 ### AI Support Ticket Classification System
 
