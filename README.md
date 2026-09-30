@@ -89,5 +89,5 @@ I'm continuing to build my skills across:
 ## Connect With Me
 
 - [LinkedIn](https://linkedin.com/in/anthony-escobar)  
-- [Email](mailto:anthony_escobar@berkeley.edu)
+- [Primary Email](mailto:anthony_escobar@berkeley.edu)
 - [Secondary Email](mailto:anthonyescobar852@gmail.com)
