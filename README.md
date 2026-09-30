@@ -2,7 +2,7 @@
 
 ### Data Science @ UC Berkeley | Computer Science Background
 
-I'm a Data Science student at the University of California, having transferred from Cerritos College.
+I'm a Data Science student at the University of California, having transferred from Cerritos College where I had studied Computer Science.
 
 I'm interested in data science, software, and cloud technologies, and I like working on projects where I can apply what I'm learning in settings that have real-world application. My experience includes undergraduate research, data analysis, software development, and technical mentorship.
 
@@ -88,6 +88,6 @@ I'm continuing to build my skills across:
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anthony%20Escobar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anthony-escobar)
-
-[![Email](https://img.shields.io/badge/Email-anthony.escobar%40berkeley.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthony.escobar@berkeley.edu)
+- [LinkedIn](https://linkedin.com/in/anthony-escobar)  
+- [Email](mailto:anthony_escobar@berkeley.edu)
+- [Secondary Email](mailto:anthonyescobar852@gmail.com)
